@@ -1,0 +1,7 @@
+[1126/200532.054:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1126/200532.073:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Trabaho\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\0576622f-9ed9-49dd-9f19-34b87d51e413: The system cannot find the path specified. (0x3)
+[1126/200532.077:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Trabaho\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\975e6b04-3b34-4c76-8903-3bd76d411896: The system cannot find the path specified. (0x3)
+[1126/200532.079:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Trabaho\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\5e9ab8f4-9e39-4c27-949e-2cead3e6c767: The system cannot find the path specified. (0x3)
+[1126/200532.081:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Trabaho\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\e37caf29-c13b-4f9f-a4aa-83876e250c5e: The system cannot find the path specified. (0x3)
+[1127/191154.814:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1127/191154.866:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Trabaho\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\50577090-2e67-43ee-9506-c0fe95cc6540: The system cannot find the path specified. (0x3)
